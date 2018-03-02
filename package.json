@@ -1,6 +1,6 @@
 {
   "name": "react-select-box-patched",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An accessible select box component for React.",
   "main": "lib/select-box.js",
   "directories": {
